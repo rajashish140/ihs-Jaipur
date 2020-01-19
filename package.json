@@ -1,0 +1,19 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HERE",
+    "map"
+  ],
+  "author": "ASHISH YADAV",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twit": "^2.2.11"
+  }
+}
